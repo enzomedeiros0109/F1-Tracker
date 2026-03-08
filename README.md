@@ -6,4 +6,4 @@
 
 ## Onde são obtidas as informações?
 
-###O aplicativo coleta toda as informações de [openf1.org](openf1.org), uma API de Fórmula 1 gratuita.
+###O aplicativo coleta toda as informações de [openf1.org](https://openf1.org/), uma API de Fórmula 1 gratuita.
