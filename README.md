@@ -6,4 +6,8 @@
 
 ## Onde são obtidas as informações?
 
-### O aplicativo coleta toda as informações de [openf1.org](https://openf1.org/), uma API de Fórmula 1 gratuita.
+### O aplicativo coleta toda as informações de [openf1.org](https://openf1.org/), uma API gratuita de Fórmula 1.
+
+## Como iniciar o programa?
+
+### Clone o repositório usando >git clone https://github.com/enzomedeiros0109/F1-Tracker.git
