@@ -10,4 +10,4 @@
 
 ## Como iniciar o programa?
 
-### Clone o repositório usando >git clone https://github.com/enzomedeiros0109/F1-Tracker.git
+### Clone o repositório usando > git clone https://github.com/enzomedeiros0109/F1-Tracker.git
